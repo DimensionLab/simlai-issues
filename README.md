@@ -1,6 +1,6 @@
-# SIML.ai issue tracker (bug reports)
+# Siml.ai issue tracker (bug reports)
 
-Note: for support questions, please use our **[Discord](https://discord.gg/ZGxWbrbjQy)**. For feature requests, go to **[SIML.ai Feature Requests & Roadmap](https://siml.ai/roadmap)**. Make sure to check our **[documentation](https://docs.siml.ai/)** thoroughly before creating new issue here. 
+Note: for support questions, please use our **[Discord](https://discord.gg/ZGxWbrbjQy)**. For feature requests, go to **[Siml.ai Feature Requests & Roadmap](https://trello.com/b/i8USJVET/simlai-feature-requests-roadmap)**. Make sure to check our **[documentation](https://docs.siml.ai/)** thoroughly before creating new issue here. 
 
 This repository's issues are reserved for **bug reports**.
 
